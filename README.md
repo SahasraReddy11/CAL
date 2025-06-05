@@ -19,4 +19,4 @@ This project introduces the **Confidentiality Analysis Layer (CAL)** — a fine-
 
 The codes present in the folder named "training" are each used to train a model with the given dataset. Please change the name of the dataset accordingly.
 
-The codes present in the folder named "interference" will help use the generated models  to test out prompts of your own.
+The codes present in the folder named "inference" will help use the generated models  to test out prompts of your own.
